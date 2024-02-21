@@ -1,3 +1,10 @@
+
 Machine Learning is revolutionizing the world of healthcare. ML models can help predict patient deterioration, optimize logistics, assist with real-time surgery and even determine drug dosage. As a result, medical personnel are able to work more efficiently, serve patients better and provide higher quality healthcare.
 
 When developing and training machine learning models for healthcare, open and free datasets are an essential starting point for data scientists and engineers, and they can be hard to come by. Here are 22 excellent open datasets for healthcare machine learning:
+
+
+
+
+
+hi updated my data from jira
